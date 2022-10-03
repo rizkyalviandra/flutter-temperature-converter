@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:temperature_converter/ui/widget/convert_button_widget.dart';
-import 'package:temperature_converter/ui/widget/result_widget.dart';
+import 'package:temperature_converter/ui/widgets/convert_button_widget.dart';
+import 'package:temperature_converter/ui/widgets/result_widget.dart';
 
 class ConverterScreen extends StatefulWidget {
   const ConverterScreen({super.key});
