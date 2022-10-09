@@ -5,7 +5,7 @@ import 'package:temperature_converter/ui/screens/converter_screen.dart';
 
 void main() {
   runApp(ChangeNotifierProvider(
-    create: (_) => Convert(20, 20, 20, 20),
+    create: (_) => Convert(0, 0, 0, 0),
     child: const MyApp(),
   ));
 }
